@@ -4,4 +4,4 @@
 This project builds machine learning models using Python to predict movie ratings based on an IMDB movie dataset. 
 
 ## Installation
-To run the code, download the ipynb file.
+To run the code, download the files and run the ipynb file.
